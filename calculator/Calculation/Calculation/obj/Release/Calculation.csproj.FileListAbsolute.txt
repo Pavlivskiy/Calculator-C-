@@ -1,0 +1,14 @@
+C:\Users\Володимир\documents\visual studio 2013\Projects\Calculation\Calculation\bin\Release\Calculation.exe.config
+C:\Users\Володимир\documents\visual studio 2013\Projects\Calculation\Calculation\obj\Release\Calculation.csprojResolveAssemblyReference.cache
+C:\Users\Володимир\documents\visual studio 2013\Projects\Calculation\Calculation\obj\Release\Calculation.About_Program.resources
+C:\Users\Володимир\documents\visual studio 2013\Projects\Calculation\Calculation\obj\Release\Calculation.Calculation.resources
+C:\Users\Володимир\documents\visual studio 2013\Projects\Calculation\Calculation\obj\Release\Calculation.Properties.Resources.resources
+C:\Users\Володимир\documents\visual studio 2013\Projects\Calculation\Calculation\obj\Release\Calculation.csproj.GenerateResource.Cache
+C:\Users\Володимир\documents\visual studio 2013\Projects\Calculation\Calculation\bin\Release\Calculation.exe
+C:\Users\Володимир\documents\visual studio 2013\Projects\Calculation\Calculation\bin\Release\Calculation.pdb
+C:\Users\Володимир\documents\visual studio 2013\Projects\Calculation\Calculation\obj\Release\Calculation.exe
+C:\Users\Володимир\documents\visual studio 2013\Projects\Calculation\Calculation\obj\Release\Calculation.pdb
+C:\Users\Володимир\documents\visual studio 2013\Projects\Calculation\Calculation\bin\Release\Calculation.exe.manifest
+C:\Users\Володимир\documents\visual studio 2013\Projects\Calculation\Calculation\bin\Release\Calculation.application
+C:\Users\Володимир\documents\visual studio 2013\Projects\Calculation\Calculation\obj\Release\Calculation.exe.manifest
+C:\Users\Володимир\documents\visual studio 2013\Projects\Calculation\Calculation\obj\Release\Calculation.application
